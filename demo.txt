@@ -1,5 +1,12 @@
 demo httt
 toi dang tao ra loi hay fix di
 1. loi thu nhat
+<<<<<<< HEAD
 2. da sua loi thu nhat
 3. loi thu 2
+=======
+<<<<<<< HEAD
+2. Loi thu hai
+
+2. da sua loi thu nhat
+
