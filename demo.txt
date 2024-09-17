@@ -1,3 +1,4 @@
 demo httt
 toi dang tao ra loi hay fix di
 1. loi thu nhat
+2. da sua loi thu nhat
