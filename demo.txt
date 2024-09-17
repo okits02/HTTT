@@ -1,4 +1,8 @@
 demo httt
 toi dang tao ra loi hay fix di
 1. loi thu nhat
+<<<<<<< HEAD
 2. Loi thu hai
+=======
+2. da sua loi thu nhat
+>>>>>>> fa58ba5c94e2c542f3de496f5b8bb345e5e29324
